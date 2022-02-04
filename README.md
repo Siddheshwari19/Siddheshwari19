@@ -1,7 +1,6 @@
 <h1>Hello, I'm Siddheshwari! 👩🏾‍💻</h1>
 
 - I’m currently pursuing Bachelor's degree in Computer Engineering.
-- 
 
 <!--
 **Siddheshwari19/Siddheshwari19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
