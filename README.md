@@ -2,8 +2,6 @@
 
 - I’m currently pursuing Master's degree in Computer Science (specialization Data Science).
 
-LinkedIn:
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="siddheshwari-bankar-5200711aa" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/siddheshwari-bankar-5200711aa?trk=profile-badge">Siddheshwari Bankar</a></div>
               
 <!--
 **Siddheshwari19/Siddheshwari19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
