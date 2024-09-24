@@ -1,6 +1,6 @@
 <h1>Hello, I'm Siddheshwari! 👩🏾‍💻</h1>
 
-- I’m currently pursuing Master's degree in Computer Science (specialization Data Science).
+- I’m a recent Computer Science graduate with a specialization in Data Science.
 
               
 <!--
